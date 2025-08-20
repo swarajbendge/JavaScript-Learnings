@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Objects</title>
+</head>
+<body>
+    <script>
+        const obj1 = {
+            "First Name" : 'My name is Swaraj', 
+            Age : 'My age is 22',
+            hobbies : ["I love listening Music", "I enjoy Coding", "I love to Travel"]
+        };
+        console.log(
+        obj1["First Name"]
+        );
+
+
+        //convert javascript object to JSON
+        console.log(JSON.stringify(obj1));
+
+        //convert JSON to javascript
+        const jsonString = JSON.stringify(obj1);
+        console.log(JSON.parse(jsonString));
+    </script>
+</body>
+</html>
