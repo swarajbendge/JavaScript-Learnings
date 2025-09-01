@@ -22,7 +22,7 @@ This repo contains all the code, notes, and practice exercises I’m working on 
 I’ll keep updating my progress here as I go along:
 - [x] Basics (variables, operators, loops)  
 - [x] Functions  
-- [ ] Arrays & Objects  
+- [x] Arrays & Objects  
 - [x] DOM Manipulation  
 - [ ] ES6+ Concepts  
 - [ ] Projects
