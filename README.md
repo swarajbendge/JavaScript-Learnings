@@ -24,5 +24,5 @@ I’ll keep updating my progress here as I go along:
 - [x] Functions  
 - [x] Arrays & Objects  
 - [x] DOM Manipulation  
-- [ ] ES6+ Concepts  
-- [ ] Projects
+- [x] ES6+ Concepts  
+- [x] Projects
